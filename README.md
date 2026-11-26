@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="icon.png" width="120">
+<!-- إذا أردت إظهار الأيقونة، ارفع ملف icon.jpg أولاً أو احذف السطر التالي -->
+<!-- <img src="icon.jpg" width="120"> -->
 
 # مسابقة الإسلاميات
 ### Islamic Quiz
@@ -9,7 +10,9 @@
 
 [⬇️ تحميل أحدث إصدار (APK)](https://github.com/HatimAli-Bashir/islamic-quiz/releases/latest)
 
-<img src="home.png" width="200"> <img src="stages.png" width="200"> <img src="question.png" width="200">
+<img src="home.jpg" width="200"> <img src="stages.jpg" width="200"> <img src="question.jpg" width="200">
+
+<img src="about.jpg" width="200"> <img src="settings.jpg" width="200"> <img src="support.jpg" width="200">
 
 </div>
 
