@@ -1,2 +1,39 @@
-# islamic-quiz-releases-.islamic-trivia-app
-Islamic trivia app releases (APK) featuring levels, stages, hearts, and Arabic RTL interface.
+<div align="center">
+
+<img src="icon.png" width="120">
+
+# مسابقة الإسلاميات
+### Islamic Quiz
+
+لعبة أسئلة إسلامية بالعربية لأندرويد، مجانية.
+
+[⬇️ تحميل أحدث إصدار (APK)](https://github.com/HatimAli-Bashir/islamic-quiz/releases/latest)
+
+<img src="home.png" width="200"> <img src="stages.png" width="200"> <img src="question.png" width="200">
+
+</div>
+
+<div dir="rtl">
+
+## المميزات
+- 3 مستويات و15 مرحلة، في كل مرحلة 20 سؤالاً (300 سؤال).
+- 3 قلوب لكل مرحلة، و10 نقاط لكل إجابة صحيحة، ونجوم حسب أدائك.
+- المراحل تُفتح تدريجياً.
+- مؤقت لكل سؤال يمكن تغييره أو إيقافه.
+- أصوات وموسيقى هادئة يمكن إيقافها.
+- اختيار الخط وحجمه، وترحيب باسمك.
+- واجهة عربية كاملة.
+
+## التثبيت
+1. حمّل ملف `app-release-signed.apk` من صفحة Releases.
+2. اسمح بالتثبيت من هذا المصدر عند الطلب.
+3. إن ظهر تحذير Play Protect فسببه أن التطبيق غير منشور في المتجر، فاختر التثبيت على أي حال.
+
+## تواصل
+- تلغرام: @GDS1TECH
+- gds1tech@gmail.com
+- الملاحظات والاقتراحات: تبويب Issues
+
+© 2026 GDS TECH. جميع الحقوق محفوظة.
+
+</div>
